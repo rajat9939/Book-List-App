@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookListApp</string>
+    <string name="edit_hint">Search book by its name/author</string>
+    <string name="search_book">SEARCH BOOK</string>
+    <string name="search_button">Search</string>
+    <string name= "no_Book">No Book Found</string>
+    <string name = "no_Network">No Internet Connection</string>
+</resources>
